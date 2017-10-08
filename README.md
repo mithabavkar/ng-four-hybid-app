@@ -1,4 +1,4 @@
-#Angular 4 + Cordova boilerplate
+#ng-four-hybid-app : Angular 4 + Cordova boilerplate
 
 This project is using Angular 4 + Cordova boilerplate configurated. You can start building your great Hybrid Cordova Mobile Apps in Angular 4.
 
