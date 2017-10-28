@@ -6,8 +6,8 @@ This project is using Angular 4 + Cordova boilerplate configurated. You can star
 
 * Install Node.js from: https://nodejs.org/en/download/
 * Install Cordova using: `npm install -g cordova`
-* Clone ngCordova repository: `https://github.com/mithabavkar/ng-four-hybid-app.git`
-* Go to ngCordova repository: `cd project_name`
+* Clone ng-four-hybid-app repository: `https://github.com/mithabavkar/ng-four-hybid-app.git`
+* Go to ng-four-hybid-app repository: `cd project_name`
 * Install dependencies: `npm install`
 
 ## Development server
@@ -23,7 +23,7 @@ This project is using Angular 4 + Cordova boilerplate configurated. You can star
 
 ## Adding Cordova platform
 
-* Go to ngCordova repository: `cd ngCordova`
+* Go to ng-four-hybid-app repository: `cd ngCordova`
 * List available Cordova platforms: `cordova platform ls`
 * Add a desired platform: `cordova platform add [ browser | android | .. ]`
 
